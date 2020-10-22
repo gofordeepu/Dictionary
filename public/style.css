@@ -1,0 +1,8 @@
+#heading {
+  text-align: center;
+}
+#container {
+  margin: auto;
+  align-self: center;
+  background-color: gray;
+}
